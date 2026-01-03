@@ -6,3 +6,11 @@ En esta seccion documento lo aprendido sobre la sintaxis basica de Python, adema
 * [Curso de Python (De MoureDev en YouTube)](https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_)
 * [Curso CodeDex(Primera leccion: Hello World)](https://www.codedex.io/python)
 * 
+
+
+**Notas**
+la terminal de vs code se ingresa en Terminal nueva terminal
+para guardar cambios en GitHub usa:
+git add .
+git commit -m "mensaje"
+git push
