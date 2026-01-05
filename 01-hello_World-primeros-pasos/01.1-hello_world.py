@@ -16,6 +16,7 @@ tipos de numero.
 integer: enteros positivo y negativo 
 Float: decimales positivos y negativos 
 ''' 
+# Operaciones u operadores
 
 print(3 + 2)   # addition(+)
 print(3 - 2)   # subtraction(-)
@@ -36,8 +37,8 @@ print(type([1, 2, 3]))           # List -------- "lista de datos o variables (co
 print(type({'name':'Asabeneh'})) # Dictionary -- "diccionario (“Si quiero una variable que agrupe datos y a cada uno darle una etiqueta, uso un diccionario.”)"
 print(type({9.8, 3.14, 2.7}))    # Set --------- "conjunto de valores unicos ("no me importa el orden, me importa que no se repitan")"
 print(type((9.8, 3.14, 2.7)))    # Tuple ------- "una agrupacion de datos inmutables (que no deben ser alterados o no deben cambiar)"
-print(type(3 == 3))              # Bool -------- ""
-print(type(3 >= 3))              # Bool
+print(type(3 == 3))              # Bool -------- "booleano ("tipo de dato con solo dos valores "True o False" representa condiciones logicas y toma de deciciones(ejemplo: comparaciones)")"
+print(type(3 >= 3))              # Bool -------- "booleano (" == ")"
 
 '''
 
@@ -49,7 +50,7 @@ print(type(3 >= 3))              # Bool
 Lista = orden
 Tupla = orden fijo
 Set = unicidad
-Dict = significado
+Diccionario = significado
 
 '''
 

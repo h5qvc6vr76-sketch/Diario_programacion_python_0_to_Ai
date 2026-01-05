@@ -8,14 +8,15 @@ Este repositorio es el centro de mando donde documento mi evolucion en el mundo 
 Dominar las bases de Python, avanzar hacia el analisis de datos y final mente construir proyectos de Inteligencia Artificial y Machine Learning.
 
 ## Mi entorno de desarrollo
-* - **Hardware:** Mac mini M4.
-* - **Editor:** Visual Studio Code. 
+* **Hardware:** Mac mini M4.
+* **Editor:** Visual Studio Code. 
 
 ## Hoja de Ruta
-- [x] Configuracion del entorno y primer repositorio.
-- [ ] Fundamentos de Python (Variables, Bucles, Funciones)
-- [ ] etc...
-- [ ] Proyectos de iA aplicados
+* [x] **Seccion 00** Configuracion del entorno y primer repositorio.
+* [x] **Seccion 01** [Variables, Operaciones, Funciones "print","input"](./01-hello_World-primeros-pasos/)
+  - [Ver recursos de esta seccion](./01-hello_World-primeros-pasos/01.4-Recursos_y_bibliografia.md) 
+* [ ] etc...
+* [ ] Proyectos de iA aplicados
 
 ## Notas de Progreso
 * **Enero 2026:** Inicio del viaje.

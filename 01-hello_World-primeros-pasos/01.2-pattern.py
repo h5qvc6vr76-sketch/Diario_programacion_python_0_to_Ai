@@ -6,7 +6,7 @@
 7 8 9 10
 """
 
-# mas o menos asi
+# desarrollo
 
 
 print('       1')
@@ -15,5 +15,3 @@ print('   4 5 6')
 print('7 8 9 10')
 
 # los espacios tambien son caracteres
-
-
